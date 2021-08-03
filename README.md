@@ -8,7 +8,7 @@ A mirror-maker container based on [bitnami/kafka](https://hub.docker.com/r/bitna
 This image is available from Docker hub however, if you would like to build it yourself here are the steps:
 
 ```
-git clone https://github.com/srotya/docker-kafka-mirror-maker.git
+git clone https://github.com/opleon1/docker-kafka-mirror-maker.git
 cd docker-kafka-mirror-maker
 docker build -t mirror-maker:latest .
 ```
